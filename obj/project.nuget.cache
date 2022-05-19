@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HUwYGqBhp5///CpJY498eKu8/rothJEqCEC4YOZwxtcx0QYN6tNq7CgFbmmHK+izjV9xVv3T74M5FdCDtPxDSg==",
+  "success": true,
+  "projectFilePath": "E:\\DESENVOLVIMENTO\\teste entrevista\\ler arquivo csv\\lerCsv\\lerArquivoCsv\\lerArquivoCsv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Junior Paixao\\.nuget\\packages\\csvhelper\\24.0.1\\csvhelper.24.0.1.nupkg.sha512",
+    "C:\\Users\\Junior Paixao\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
